@@ -22,7 +22,7 @@ A FornecedoresPlayMove é uma Web API desenvolvida em C# com ASP.NET Core para o
 3. Configurar a string de conexão com o SQL Server no arquivo `appsettings.json`:
    ```json
    "ConnectionStrings": {
-     "conexaoFornecedoresDB": "Server=SEU_SERVIDOR;Database=FornecedoresDB;Trusted_Connection=True;"
+     "conexaoFornecedoresDB": "Server=localhost\\SQLEXPRESS;Database=FornecedoresDB;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=true"
    }
    ```
 4. Executar as migrações do banco de dados (deixei os dados da minha migração no projeto para vocês examinarem como foi criada e alterada a entidade):
