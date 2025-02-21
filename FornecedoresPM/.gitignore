@@ -1,0 +1,48 @@
+# Visual Studio
+.vs/
+
+# Build e Dependências
+bin/
+obj/
+*.log
+*.cache
+*.csproj.user
+*.suo
+*.user
+*.dotCover
+*.ncrunch*
+*.localhistory
+
+# Configurações do IDE
+.idea/
+*.sln.ide
+
+# Arquivos Sensíveis
+appsettings.json
+appsettings.*.json
+secrets.json
+
+# Entity Framework
+Migrations/
+*.mdf
+*.ldf
+*.sqlite
+
+# Bancos de Dados Locais
+*.db
+*.bak
+*.log
+
+# Logs e Dumps
+logs/
+*.tlog
+*.dmp
+
+# Configurações do Swagger
+swagger/
+*.swagger.json
+
+# Outras Configurações
+.DS_Store
+Thumbs.db
+*~
