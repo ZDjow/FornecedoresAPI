@@ -1,7 +1,7 @@
-# FornecedoresPlayMove
+# FornecedoresAPI
 
 ## 📌 Buenas Senhoras e Senhores! Tudo certo? Segue a visão geral do projeto:
-A FornecedoresPlayMove é uma Web API desenvolvida em C# com ASP.NET Core para o gerenciamento de fornecedores de uma empresa!
+A FornecedoresAPI é uma Web API desenvolvida em C# com ASP.NET Core para o gerenciamento de fornecedores de uma empresa!
 
 ## 🚀 Tecnologias Utilizadas
 - C#
@@ -13,7 +13,7 @@ A FornecedoresPlayMove é uma Web API desenvolvida em C# com ASP.NET Core para o
 ## 🛠 Configuração do Ambiente
 1. Clonar este repositório:
    ```sh
-   git clone https://github.com/ZDjow/FornecedoresPlayMove.git
+   git clone https://github.com/ZDjow/FornecedoresAPI.git
    ```
 2. Navegar até o diretório do projeto:
    ```sh
